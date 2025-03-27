@@ -43,8 +43,8 @@ body {
     background-color: var(--color-yellow);
 }
 
-.tags p {
-    font-size: 16px;
+.tags .date {
+    font-size: 14px;
     font-weight: 500;
 }
 
